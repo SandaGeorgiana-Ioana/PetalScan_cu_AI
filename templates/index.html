@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌸 PetalScan 🌸</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>🌸 PetalScan 🌸</h1>
+        <p>Încarcă o poză cu o floare și modelul AI îți spune ce este!</p>
+    </div>
+
+    <div class="upload-section">
+        <div class="upload-box" id="uploadBox">
+            <input type="file" id="fileInput" accept="image/*" hidden>
+            <div class="upload-placeholder" id="uploadPlaceholder">
+                <span class="upload-icon">📷</span>
+                <p>Click pentru a încărca o poză</p>
+                <p class="upload-hint">JPG, PNG, WEBP acceptate</p>
+            </div>
+            <img id="previewImage" class="preview-image" hidden>
+        </div>
+
+        <button class="btn" id="predictBtn" disabled>
+            🔍 Identifică Floarea
+        </button>
+    </div>
+
+    <div class="result-section" id="resultSection" hidden>
+        <div class="result-message" id="resultMessage"></div>
+        <div class="results-list" id="resultsList"></div>
+    </div>
+
+    <div class="loading" id="loading" hidden>
+        <div class="spinner"></div>
+        <p>Analizez imaginea...</p>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
