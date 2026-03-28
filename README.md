@@ -20,11 +20,13 @@ https://github.com/user-attachments/assets/3495db26-1ec0-4280-99bd-01623a7d5a42
 
 # Poze demonstrative
 
-<img width="1534" height="1002" alt="Captură de ecran 2026-03-28 153931" src="https://github.com/user-attachments/assets/2c599ad2-fbf9-42b8-b91a-9a51baef0a49" />
+<img width="1470" height="1014" alt="image" src="https://github.com/user-attachments/assets/9c0b96e9-f44d-47bd-8ee6-467ab3ba3515" />
+
+<img width="1471" height="994" alt="image" src="https://github.com/user-attachments/assets/cd8d3b48-742a-4a54-bb3a-c49ab990d4bf" />
+
+<img width="1473" height="998" alt="image" src="https://github.com/user-attachments/assets/883f957f-e4da-4c83-9aa4-19b6ea146435" />
+
+<img width="1555" height="997" alt="image" src="https://github.com/user-attachments/assets/e1828f3c-6dd2-4603-91cf-c205ab7f1ed9" />
 
 
-<img width="1695" height="1016" alt="Captură de ecran 2026-03-28 153952" src="https://github.com/user-attachments/assets/9f2ff738-e7c8-4bbe-9768-64a51b2708eb" />
-
-
-<img width="1395" height="1013" alt="Captură de ecran 2026-03-28 154118" src="https://github.com/user-attachments/assets/18a84306-8c3c-4cce-a66f-6db7a78d035a" />
 
