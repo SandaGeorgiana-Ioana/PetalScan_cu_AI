@@ -22,6 +22,9 @@ https://github.com/user-attachments/assets/3495db26-1ec0-4280-99bd-01623a7d5a42
 
 <img width="1534" height="1002" alt="Captură de ecran 2026-03-28 153931" src="https://github.com/user-attachments/assets/2c599ad2-fbf9-42b8-b91a-9a51baef0a49" />
 
+
 <img width="1695" height="1016" alt="Captură de ecran 2026-03-28 153952" src="https://github.com/user-attachments/assets/9f2ff738-e7c8-4bbe-9768-64a51b2708eb" />
 
+
 <img width="1395" height="1013" alt="Captură de ecran 2026-03-28 154118" src="https://github.com/user-attachments/assets/18a84306-8c3c-4cce-a66f-6db7a78d035a" />
+
