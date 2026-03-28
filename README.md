@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/3495db26-1ec0-4280-99bd-01623a7d5a42
 
 <img width="718" height="458" alt="Captură de ecran 2026-03-27 195902" src="https://github.com/user-attachments/assets/608dbb3d-414a-4a40-91a2-466daf29c461" />
 <img width="1750" height="945" alt="Captură de ecran 2026-03-27 200029" src="https://github.com/user-attachments/assets/2c6ac723-b209-4e3b-bfcf-2276eb5c45d5" />
+
 #  Testare cu o poză în care nu este o floare
 
 <img width="660" height="376" alt="Captură de ecran 2026-03-27 115533" src="https://github.com/user-attachments/assets/639949ef-991b-427c-aadc-49c0670e7bef" />
