@@ -122,9 +122,9 @@ def verificare_echilibru():
     print(f"  Clase dezechilibrate   : {dezechilibrate} ({dezechilibrate/len(counts)*100:.1f}%)")
 
     if dezechilibrate > len(counts) * 0.3:
-        print("  ⚠️  Dataset dezechilibrat! Poate afecta acuratețea.")
+        print(" Dataset dezechilibrat! Poate afecta acuratețea.")
     else:
-        print("  ✅ Dataset relativ echilibrat.")
+        print("Dataset relativ echilibrat.")
     print("=" * 60)
 
 
